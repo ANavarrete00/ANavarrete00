@@ -1,5 +1,5 @@
 ## Hi and welcome to my GitHub 👋
-My name is Adrian Navarrete, and I'm a software engineer from Washington. I am a recent graduate with my BAS in Information Technology. I have had many jobs ranging from machinist, commercial driver, to electrictian. Some thing I like to do include coding, gaming, woodworking, and camping.
+My name is Adrian Navarrete, and I'm a software engineer from Washington. I am a recent graduate with my BAS in Software Development. I have had many jobs ranging from machinist, commercial driver, to electrictian. Some thing I like to do include coding, gaming, woodworking, and camping.
 * Feel free to contact me at adrian.navarrete@yahoo.com
 # Back-End skills
 <p>
